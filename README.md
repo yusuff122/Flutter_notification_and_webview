@@ -1,16 +1,10 @@
-# tbmyo_proje
+# tbmyo_project
 
-A new Flutter project.
+Bingöl University Mobile Application
 
-## Getting Started
+⭐ firebase_core:   # Provides the core functionality for using Firebase in Flutter apps, required for initializing Firebase services.
+⭐ firebase_messaging:  # Allows Flutter apps to send and receive push notifications using Firebase Cloud Messaging (FCM).
+⭐ grock: # A package for handling a reactive state management approach in Flutter, offering an alternative to other state management solutions.
+⭐ awesome_snackbar_content: # Provides customizable snackbars with advanced content and styling options for better user feedback in Flutter apps.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
